@@ -4,7 +4,7 @@ using UnityEngine;
 
 namespace MonkeClick
 {
-    [BepInPlugin("baggz.monkeclick", "MonkeClick", "1.0.0")]
+    [BepInPlugin("baggz.monkeclick", "MonkeClick", "1.0.1")]
     public class Plugin : BaseUnityPlugin
     {
         public static LineRenderer lineRenderer;
